@@ -20,9 +20,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AITYunivers&show_icons=true&hide_border=true&theme=transparent" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AITYunivers&layout=compact&hide_border=true&theme=transparent&langs_count=4&hide=c%2B%2B,c,javascript,html,batchfile" width="49%">
+  <img src="https://streak-stats.demolab.com?user=AITYunivers&theme=transparent&hide_border=true" height="49%">
 </p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AITYunivers&theme=transparent&hide_border=true" height="180">
-</div>
