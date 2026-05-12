@@ -1,17 +1,16 @@
 # AITYunivers
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aY2WFGPBBB)
-[![C#](https://img.shields.io/badge/C%23-blueviolet?logo=csharp&style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Avalonia](https://img.shields.io/badge/Avalonia-blue?logo=avalonia&style=for-the-badge)](https://avaloniaui.net/)
-[![Java](https://img.shields.io/badge/Java-orange?logo=java&style=for-the-badge)](https://www.java.com/)
+[![C#](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://img.shields.io/badge/C++-blueviolet?style=for-the-badge)]()
 
 ---
 
 ### About
 
 - 🏗️ Creator of [Nebula](https://github.com/AITYunivers/NebulaFD).
-- 🛠️ C# Software Engineer & App Developer with Avalonia.
-- 🔧 Minecraft b1.7.3 modder in Java with Babric and StationAPI.
+- 🛠️ C# Software Engineer.
+- 🔧 C++ Extension Developer for Clickteam Fusion 2.5.
 - 🗨️ Discord username: `yunivers` although, I'd prefer you just ping me in my server
 
 ---
