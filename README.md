@@ -1,8 +1,8 @@
 # AITYunivers
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aY2WFGPBBB)
-[![C#](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![C++](https://img.shields.io/badge/C++-blueviolet?style=for-the-badge)]()
+[![C#](https://img.shields.io/badge/C%23-9179E4?style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://img.shields.io/badge/C++-659AD2?style=for-the-badge)]()
 
 ---
 
